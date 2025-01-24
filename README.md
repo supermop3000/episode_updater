@@ -132,13 +132,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## Acknowledgments
-Special thanks to the developers and contributors who helped streamline the ShotGrid episode syncing process.
-
----
-
-## Contact
-For questions or support, please reach out to:
-- **Email**: [Your Email Address]
-- **GitHub**: [Your Repository Link]
-
